@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution here](https://github.com/DavidIrvine-TW/frontend_mentor-perfume-card)
+- Live Site URL: [live site ](https://davidirvine-tw.github.io/frontend_mentor-perfume-card/)
 
 ## My process
 
