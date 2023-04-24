@@ -21,7 +21,6 @@ Users should be able to:
 - Solution URL: [solution here](https://github.com/DavidIrvine-TW/frontend_mentor-perfume-card)
 - Live Site URL: [live site ](https://davidirvine-tw.github.io/frontend_mentor-perfume-card/)
 
-## My process
 
 ### Built with
 
